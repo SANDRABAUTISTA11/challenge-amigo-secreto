@@ -1,1 +1,1 @@
-Challenge amigo secreto consiste en ingresar los nombres que el usuario desee, para después dar click al botón sortear amigo y que el juego le muestre en pantalla el nombre de quien es su amigo secreto.
+Se compone de dos funciones la primera para que el usuario logre agregar el nombre de un amigo, y este se guarde en una lista que vaya apareciendo en la pantalla, la segunda función es para sortear esos nombre y finalmente aparezca en la pantalla el nombre del amigo secreto.
